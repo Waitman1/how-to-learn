@@ -9,6 +9,7 @@
   z-index: 1;
   color: #2f80ed;
 }
+
 .feynman__link:hover {
   color: rgba(84, 120, 194, 0.96);
 }
